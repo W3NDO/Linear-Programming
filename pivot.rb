@@ -11,10 +11,10 @@
 
  	3. Do the pivot logic
 
- 		 __		  __		 __				  	 ___
- 		|	p 	r 	|		|	(1/p) 		(r/p)   |
- 		|	 		| 	=>  |     				    |
- 		|__	c	q __|       |__	(-c/p)  (q-(rc/p))__|
+ 		 __		  __	     __			   ___
+ 		|	p 	r   |	    |	(1/p) 	      (r/p)   |
+ 		|	 	    | 	=>  |     		      |
+ 		|__	c	q __|       |__	(-c/p)    (q-(rc/p))__|
 
  	4. Return the pivoted result
 
