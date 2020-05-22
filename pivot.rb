@@ -21,7 +21,7 @@
 
 =end
 
-#W3NDO
+#W3NDO == fib(10)
 
 #step 1: Get the System of equation sfrom the user
 puts "Enter the number of dependant variables and the letter denoting it eg (3,s)"
